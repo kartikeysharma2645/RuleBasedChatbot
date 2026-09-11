@@ -2,8 +2,6 @@
 
 A beginner-friendly rule-based chatbot built with Python using predefined keywords, phrases, and conditional logic to generate responses.
 
-This project was developed as **Task 1** of the **CodeOrbit Tech – Artificial Intelligence (AI) Internship**.
-
 ---
 
 ## 📌 Project Overview
@@ -128,7 +126,7 @@ When multiple rules could match an input, the chatbot evaluates the rules from t
 ## 📁 Project Structure
 
 ```text
-CodeOrbit_RuleBasedChatbot/
+RuleBasedChatbot/
 │
 ├── chatbot.py
 ├── README.md
@@ -216,11 +214,6 @@ These limitations are intentional because the project is designed to demonstrate
 
 ---
 
-## 🎯 Internship Task
-
-**Program:** CodeOrbit Tech – Artificial Intelligence (AI) Internship  
-**Task:** Task 1 – Rule-Based Chatbot
-
 ### Requirements Implemented
 
 - ✅ Rule-based chatbot
@@ -239,8 +232,6 @@ These limitations are intentional because the project is designed to demonstrate
 ## 👨‍💻 Author
 
 **Kartikey Sharma**
-
-Developed as part of the **CodeOrbit Tech – Artificial Intelligence (AI) Internship**.
 
 ---
 
